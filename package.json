@@ -1,0 +1,24 @@
+{
+  "name": "bgc",
+  "version": "1.10.5",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs",
+    "scripts": {
+      "test": "node bot.js"
+    }
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "enmap": "^5.8.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
