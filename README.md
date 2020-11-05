@@ -18,6 +18,6 @@ Mas, tenho muitas perguntas ainda!..
 Tenho um servidor no Discord tambem , caso tenha alguma Duvida [Brasil Game Comunity](https://discord.gg/848wFXEtPg)
 E também conheça a Discloud, uma host muito boa para deixar seu bot online 24hrs, a, Voce pode hospedar seu bot Gratuitamente!!! Isso mesmo Gratuitamente!!!!
 Mas também pode optar por comprar um plano pago e tendo outros beneficios!! 
-> [![DisCloud](https://discloudbot.com/)](https://discord.gg/CvxevT5)
+> [![DisCloud](https://i.imgur.com/VWTRDSw.svg)](https://discord.gg/CvxevT5)
 
 > [DisCloud Web site](https://discloudbot.com/)
