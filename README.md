@@ -1,3 +1,4 @@
+[![Discord Bots](https://top.gg/api/widget/status/726932863722979388.svg)](https://top.gg/bot/726932863722979388)
 A eai, parece que temos um visitante aqui não ?
 Bom , como pode ver, este é o repo do Server Manager,e como muitos já sabem, ele é um bot simples de moderação.
 Não tem muito oque contar sobre ele, mas tem historia.
@@ -14,7 +15,6 @@ Que é aquela pergunta do tipo, como defino um canal de boas-vindas no meu servi
 Mas, tenho muitas perguntas ainda!..
 
 Tenho um servidor no Discord tambem , caso tenha alguma Duvida [Brasil Game Comunity](https://discord.gg/848wFXEtPg)
-
 E também conheça a Discloud, uma host muito boa para deixar seu bot online 24hrs, a, Voce pode hospedar seu bot Gratuitamente!!! Isso mesmo Gratuitamente!!!!
 Mas também pode optar por comprar um plano pago e tendo outros beneficios!! 
 > [DisCloud](https://discord.gg/CvxevT5)
