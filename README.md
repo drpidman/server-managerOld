@@ -16,8 +16,33 @@ Que é aquela pergunta do tipo, como defino um canal de boas-vindas no meu servi
 Mas, tenho muitas perguntas ainda!..**
 
 **Tenho um servidor no Discord tambem , caso tenha alguma Duvida [Brasil Game Comunity](https://discord.gg/848wFXEtPg)
-E também conheça a Discloud, uma host muito boa para deixar seu bot online 24hrs, a, Voce pode hospedar seu bot Gratuitamente!!! Isso mesmo Gratuitamente!!!!
+E também conheça a DisCloud, uma host muito boa para deixar seu bot online 24hrs, a, Voce pode hospedar seu bot Gratuitamente!!! Isso mesmo Gratuitamente!!!!
 Mas também pode optar por comprar um plano pago e tendo outros beneficios!!**
-[![DisCloud](https://i.imgur.com/VWTRDSw.png)](https://discord.gg/CvxevT5)
 
-> **[DisCloud Web site](https://discloudbot.com/)**
+> **[DisCloud Discord](https://discord.gg/CvxevT5)**
+
+> **[DisCloud Website](https://discloudbot.com/)**
+
+
+**So, it looks like we have a visitor here, right?
+Well, as you can see, this is the Server Manager repo, and as many already know, it is a simple moderation bot.
+There is not much to tell about it, but it has history.**
+
+**It all started there in 2016, when I just wanted to make a bot for Discord, but I didn't know how .....
+So then I started studying Java, and then I started studying JavaScript too.**
+
+**But whenever I tried to make the bot I made some mistakes and ended up giving up
+And today, in 2020, after a long time studying JavaScript, I thought about resuming with the project ...
+And there, this wonderful bot.**
+
+**And he answered a lot of questions related to the Discord API, and I'm sure many of you ask these questions yourself as well.
+Which is the question like, how do I define a welcome channel on my server ... I say these questions. And thousands of other questions.
+But, I still have many questions! ..**
+
+**I have a server on Discord too, if you have any questions [Brasil Game Comunity](https://discord.gg/848wFXEtPg)
+And also get to know DisCloud, a very good host to let your bot online 24hrs, you can host your bot for free !!! That's right Free !!!!
+But you can also choose to buy a paid plan and have other benefits !!**
+
+> **[DisCloud Discord](https://discord.gg/CvxevT5)**
+
+> **[DisCloud Website](https://discloudbot.com/)**
