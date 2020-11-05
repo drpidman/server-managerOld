@@ -1,5 +1,6 @@
 [![Discord Bots](https://top.gg/api/widget/status/726932863722979388.svg)](https://top.gg/bot/726932863722979388)
-A eai, parece que temos um visitante aqui não ?
+
+A e ai, parece que temos um visitante aqui não ?
 Bom , como pode ver, este é o repo do Server Manager,e como muitos já sabem, ele é um bot simples de moderação.
 Não tem muito oque contar sobre ele, mas tem historia.
 
