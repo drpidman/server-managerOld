@@ -15,9 +15,9 @@ E ta ai, este bot maravilhoso.**
 Que é aquela pergunta do tipo, como defino um canal de boas-vindas no meu servidor... digo essas perguntas. E outras milhares de perguntas.
 Mas, tenho muitas perguntas ainda!..**
 
-**Tenho um servidor no Discord tambem , caso tenha alguma Duvida [Brasil Game Comunity](https://discord.gg/848wFXEtPg)
+**Tenho um servidor no Discord tambem , caso tenha alguma Duvida __[Brasil Game Comunity](https://discord.gg/848wFXEtPg)__
 E também conheça a DisCloud, uma host muito boa para deixar seu bot online 24hrs, a, Voce pode hospedar seu bot Gratuitamente!!! Isso mesmo Gratuitamente!!!!
-Mas também pode optar por comprar um plano pago e tendo outros beneficios!!**
+Mas também pode optar por comprar um plano  e tendo outros beneficios!!**
 
 > **[DisCloud Discord](https://discord.gg/CvxevT5)**
 
