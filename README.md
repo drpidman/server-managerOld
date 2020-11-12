@@ -23,7 +23,7 @@ Mas também pode optar por comprar um plano  e tendo outros beneficios!!**
 
 > **[DisCloud Website](https://discloudbot.com/)**
 
-> **[Servidor de suporte](https://discord.gg/5dFtbN5)
+> **[Servidor de suporte](https://discord.gg/5dFtbN5)**
 
 **So, it looks like we have a visitor here, right?
 Well, as you can see, this is the Server Manager repo, and as many already know, it is a simple moderation bot.
